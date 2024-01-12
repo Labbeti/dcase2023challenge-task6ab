@@ -1,7 +1,7 @@
 # dcase2023challenge-task6ab
 
-This repository will contain the source code used for my submission to the DCASE2023 challenge task 6a and 6b.
-The source code should be available in August.
+The source code of our submission to the DCASE2023 challenge task 6a is available at https://github.com/Labbeti/conette-audio-captioning.
 
-Feel free to contact me if you have any question at: labbeti.pub@gmail.com
+The model is called CoNeTTE and is almost the same model than our best submission to the DCASE challenge (apart for few hyperparameters).
 
+It is described in the corresponding paper available at https://arxiv.org/abs/2309.00454.
